@@ -2,9 +2,10 @@ import React from 'react';
 import './modal.css';
 
 /**
- *
- * @param {setIsOpen, modalText}
- * @returns Modal
+ * A simple modal to confirm form 
+ * 
+ * @param {boolean} setIsOpen - put false when click on "OK" to close modal
+ * @param {string} modalText - The text display on the modal
  */
 
 function Modal({ setIsOpen, modalText }) {
