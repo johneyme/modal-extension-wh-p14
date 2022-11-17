@@ -1,4 +1,4 @@
-# ModalExtensionWH-p14
+# Modal-Extension-WH-p14
 
 A simple modal to confirm form
 
@@ -7,13 +7,13 @@ A simple modal to confirm form
 The package can be installed via [npm](https://github.com/npm/cli):
 
 ```
-npm install modalextensionwh-p14
+npm install modal-extension-wh-p14
 ```
 
 Or via [yarn](https://github.com/yarnpkg/yarn):
 
 ```
-yarn add modalextensionwh-p14
+yarn add modal-extension-wh-p14
 ```
 
 You’ll need to use react to this extension. You may use CRA (Create React App), to be sure that work perfectly.
